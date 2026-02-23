@@ -1,0 +1,14 @@
+[project]
+name = "project1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "jupyter>=1.1.1",
+    "pandas>=3.0.1",
+    "psycopg2-binary>=2.9.11",
+    "requests>=2.32.5",
+    "sqlalchemy>=2.0.46",
+]
